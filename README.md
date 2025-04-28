@@ -19,3 +19,4 @@
 
 
 Основна робота - аналіз експертиз, виконана у `файлі expertise\expertise_analysis.ipynb`
+Так як графіки там не зберігаються, прошу переглядати їх у цьому [Google Colab](https://drive.google.com/file/d/1F7kbPxlGI_Dna_3uT2vtWXlWW8-ZetXP/view?usp=sharing)
