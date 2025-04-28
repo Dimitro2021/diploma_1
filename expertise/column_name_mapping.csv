@@ -1,0 +1,33 @@
+english_name;ukrainian_name
+document_type;Тип документу
+registration_number_edessb;Реєстраційний номер в ЄДЕССБ
+document_version;Версія документу
+registration_status;Статус реєстрації
+document_status;Статус документу
+date_of_version;date
+document_name;Документ
+issuing_body_expertise;Орган, що видав_експертиза
+issuing_body_project_documentation;Орган, що видав_ПКД
+object_name;Назва об’єкта
+project_code;Код проектної документації
+expertise_area;Напрям експертизи
+chief_project_expert;Головний експерт проекту
+registration_number;Реєстраційний номер
+construction_type;Вид будівництва
+project_works_list;Перелік видів робіт, виконаних проектувальником (генпроектувальником)
+number_of_design_stages;Кількість стадій проектування
+current_design_stage;Поточна стадія проектування
+dkbs_code;Код ДКБС
+public_funding_involved;Об'єкт споруджуються із залученням бюджетних коштів, коштів державних і комунальних підприємств, установ та організацій, а також кредитів, наданих під державні гарантії?
+intellectual_property_rights;Належність майнових прав на проектну документацію (право змінювати проектну документацію)
+contract_date;Дата договору на розробку документації
+project_documentation_number;Номер проектної документації
+document_internal_status;Статус документа
+estimate_code;Код кошторису
+estimate_version;Номер редакції кошторису
+estimate_date;Дата кошторису
+declared_estimated_cost;Заявлена кошторисна вартість, тис. грн.
+client_legal_status;Правовий статус замовника
+client_name;Назва замовника
+client_edrpou;ЄДРПОУ замовника
+doc_id;doc_id
