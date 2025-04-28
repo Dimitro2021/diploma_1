@@ -15,7 +15,7 @@
 
 **Великі файли** (>100MB), які не були завантажені у репозиторій, доступні за посиланням на Google Drive:
 
-👉 [Посилання на файли expertise_english_columns.csv](https://drive.google.com/file/d/1fvqrNqj8SKcFi5aFmBUiQutYFAjSelAM/view?usp=sharing)
+👉 [Посилання на файли expertise_english_columns.csv](https://drive.google.com/drive/folders/1N7vooR2KjuwRBv_dvochaCQpayFNBqAu?usp=sharing)
 
 
 Основна робота - аналіз експертиз, виконана у `файлі expertise\expertise_analysis.ipynb`
