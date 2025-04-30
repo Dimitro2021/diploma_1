@@ -15,7 +15,7 @@
 
 **Великі файли** (>100MB), які не були завантажені у репозиторій, доступні за посиланням на Google Drive:
 
-👉 [Посилання на файли expertise_english_columns.csv](https://drive.google.com/drive/folders/1N7vooR2KjuwRBv_dvochaCQpayFNBqAu?usp=sharing)
+👉 [Посилання на файли гугл диск з файлами](https://drive.google.com/drive/folders/1N7vooR2KjuwRBv_dvochaCQpayFNBqAu?usp=sharing)
 
 Також там збегігається усі `.ipynb` файли у форматі Google Colab, графіки, згенеровані бібліотекою plotly, github не розпізнає.
 
